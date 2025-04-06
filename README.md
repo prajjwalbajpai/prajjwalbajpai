@@ -10,17 +10,7 @@
 <br> <br>
 ![](https://github-readme-stats.vercel.app/api?username=prajjwalbajpai&theme=dark&hide_border=false&include_all_commits=true)<br/>
 <br> <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prajjwalbajpai&theme=dark&hide_border=false)<br/>
-<br> <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwalbajpai&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prajjwalbajpai&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prajjwalbajpai&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## Number of Visits
-![Visitor Count](https://profile-counter.glitch.me/prajjwalbajpai/count.svg)
 
 ---
