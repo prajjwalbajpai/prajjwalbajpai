@@ -1,5 +1,5 @@
 # 💫 About Me
-👋 Hello, I'm Prajjwal Bajpai <br>🚀 Machine Learning Enthusiast   <br>📍 Based in Noida, Uttar Pradesh<br> 
+👋 Hello, I'm Prajjwal Bajpai <br>🚀 Machine Learning Enthusiast   <br>📍 Based in Noida, Uttar Pradesh, India<br> 
 
 
 ## 🌐 Socials:
